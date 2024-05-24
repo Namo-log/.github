@@ -224,7 +224,9 @@
 
 ## 🤩 나모를 더 알고 싶다면?
 
+<div>
 <center>
-<img src="https://img.shields.io/badge/NAMO%20Tech%20blog-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://namo-log.vercel.app/"><img src="https://img.shields.io/badge/NAMO%20Tech%20blog-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="[https://namo-log.vercel.app/](https://www.instagram.com/namo___official/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </center>
+</div>
