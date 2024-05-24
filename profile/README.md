@@ -38,8 +38,8 @@
 <table>
     <thead>
         <tr>
-            <th>분류</th>
-            <th>기술 스택</th>
+            <th><b>분류</b></th>
+            <th><b>기술 스택</b></th>
         </tr>
     </thead>
     <tbody>
@@ -118,11 +118,11 @@
 
 <table>
   <tr>
-    <td align="center">코코아/김나현</a></td>
-    <td align="center">유즈/서유정</a></td>
-    <td align="center">루카/최선규</a></td>
-    <td align="center">매실/김현재</a></td>
-    <td align="center">초코/김현지</a></td>
+    <td align="center"><b>코코아/김나현</b></a></td>
+    <td align="center"><b>유즈/서유정</b></a></td>
+    <td align="center"><b>루카/최선규</b></a></td>
+    <td align="center"><b>매실/김현재</b></a></td>
+    <td align="center"><b>초코/김현지</b></a></td>
 
   </tr>
   <tr>
@@ -142,11 +142,11 @@
 </table>
 <table>
   <tr>
-    <td align="center">짱구/신동원</a></td>
-    <td align="center">연현/정현우</a></td>
-    <td align="center">램프/박민서</a></td>
-    <td align="center">고흐/고성민</a></td>
-    <td align="center">서리/서은수</a></td>
+    <td align="center"><b>짱구/신동원</b></a></td>
+    <td align="center"><b>연현/정현우</b></a></td>
+    <td align="center"><b>램프/박민서</b></a></td>
+    <td align="center"><b>고흐/고성민</b></a></td>
+    <td align="center"><b>서리/서은수</b></a></td>
 
   </tr>
   <tr>
@@ -171,33 +171,33 @@
   <h3>나모의 기수</h3>
   <table>
     <tr>
-        <td align="center">기수</td>
-        <td align="center">기간</td>
-        <td align="center">비고</td>
+        <td align="center"><b>기수</b></td>
+        <td align="center"><b>기간</b></td>
+        <td align="center"><b>비고</b></td>
     </tr>
     <tr>
         <td align="center">1기</td>
-        <td align="center">22.06.28 ~ 22.08.26</td>
-        <td align="center">UMC 2기 프로젝트</td>
+        <td>22.06.28 ~ 22.08.26</td>
+        <td>UMC 2기 프로젝트</td>
     </tr>
     <tr>
         <td align="center">2기</td>
-        <td align="center">22.09.28 ~ 23.12.31</td>
-        <td align="center">Android 출시</td>
+        <td>22.09.28 ~ 23.12.31</td>
+        <td>Android 출시</td>
     </tr>
     <tr>
         <td align="center">3기</td>
-        <td align="center">24.01.01 ~ </td>
-        <td align="center">iOS 출시, Android 리팩토링</td>
+        <td>24.01.01 ~ </td>
+        <td>iOS 출시, Android 리팩토링</td>
     </tr>
   </table>
   <h3>이전 팀원들</h3>
     <table>
     <tr>
-    <td align="center">지니/강어진</a></td>
-    <td align="center">앨리/박수빈</a></td>
-    <td align="center">얼리시/정진주</a></td>
-    <td align="center">라나/이가영</a></td>
+    <td align="center"><b>지니/강어진</b></a></td>
+    <td align="center"><b>앨리/박수빈</b></a></td>
+    <td align="center"><b>얼리시/정진주</b></a></td>
+    <td align="center"><b>라나/이가영</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Ginieee"><img src="https://github.com/Ginieee.png" width="100px;" alt=""/></a></td>
