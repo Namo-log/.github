@@ -9,11 +9,12 @@
 - [프로젝트 소개](#-프로젝트-소개)
 - [기술 스택](#️-기술-스택)
 - [팀원 소개](#-팀원-소개)
-  </br>
+
+</br>
 
 ## 📢 프로젝트 소개
 
-#### 당신의 모든 모임과 함께할, '나모'
+### 당신의 모든 모임과 함께할, '나모'
 
 '나모'는 서로의 일정을 쉽게 파악헤 손쉽게 모임 일정을 잡고, 일정에 대한 기록을 남길 수 있는 서비스입니다.
 
@@ -78,7 +79,7 @@
             </td>
             <td>
                   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=SpringBoot&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=FFFFFF">
+                  <img src="https://img.shields.io/badge/Java-947151?logo=java&logoColor=FFFFFF">
                   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?logo=Spring&logoColor=FFFFFF">
                   <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=FFFFFF">
                   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF">
@@ -117,11 +118,11 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/nahy-512">코코아/김나현</a></td>
-    <td align="center"><a href="https://github.com/yujeong-seo">유즈/서유정</a></td>
-    <td align="center"><a href="https://github.com/luke0408">루카/최선규</a></td>
-    <td align="center"><a href="https://github.com/galug">매실/김현재</a></td>
-    <td align="center"><a href="https://github.com/hyeonji91">초코/김현지</a></td>
+    <td align="center">코코아/김나현</a></td>
+    <td align="center">유즈/서유정</a></td>
+    <td align="center">루카/최선규</a></td>
+    <td align="center">매실/김현재</a></td>
+    <td align="center">초코/김현지</a></td>
 
   </tr>
   <tr>
@@ -141,11 +142,11 @@
 </table>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/edv-Shin">짱구/신동원</a></td>
-    <td align="center"><a href="https://github.com/iHyunWoo">연현/정현우</a></td>
-    <td align="center"><a href="https://github.com/FpRaArNkK">램프/박민서</a></td>
-    <td align="center"><a href="https://github.com/goghrf">고흐/고성민</a></td>
-    <td align="center"><a href="https://github.com/EunsuSeo01">서리/서은수</a></td>
+    <td align="center">짱구/신동원</a></td>
+    <td align="center">연현/정현우</a></td>
+    <td align="center">램프/박민서</a></td>
+    <td align="center">고흐/고성민</a></td>
+    <td align="center">서리/서은수</a></td>
 
   </tr>
   <tr>
@@ -170,33 +171,33 @@
   <h3>나모의 기수</h3>
   <table>
     <tr>
-        <td>기수</td>
-        <td>기간</td>
-        <td>비고</td>
+        <td align="center">기수</td>
+        <td align="center">기간</td>
+        <td align="center">비고</td>
     </tr>
     <tr>
-        <td>1기</td>
-        <td>22.06.28 ~ 22.08.26</td>
-        <td>UMC 2기 프로젝트</td>
+        <td align="center">1기</td>
+        <td align="center">22.06.28 ~ 22.08.26</td>
+        <td align="center">UMC 2기 프로젝트</td>
     </tr>
     <tr>
-        <td>2기</td>
-        <td>22.09.28 ~ 23.12.31</td>
-        <td>Android 출시</td>
+        <td align="center">2기</td>
+        <td align="center">22.09.28 ~ 23.12.31</td>
+        <td align="center">Android 출시</td>
     </tr>
     <tr>
-        <td>3기</td>
-        <td>24.01.01 ~ </td>
-        <td>Android 리팩토링, iOS 출시</td>
+        <td align="center">3기</td>
+        <td align="center">24.01.01 ~ </td>
+        <td align="center">iOS 출시, Android 리팩토링</td>
     </tr>
   </table>
   <h3>이전 팀원들</h3>
     <table>
     <tr>
-    <td align="center"><a href="https://github.com/Ginieee">지니/강어진</a></td>
-    <td align="center"><a href="https://github.com/subinpark99">앨리/박수빈</a></td>
-    <td align="center"><a href="https://github.com/jinjoo-jung">얼리시/정진주</a></td>
-    <td align="center"><a href="https://github.com/LeeGa00">라나/이가영</a></td>
+    <td align="center">지니/강어진</a></td>
+    <td align="center">앨리/박수빈</a></td>
+    <td align="center">얼리시/정진주</a></td>
+    <td align="center">라나/이가영</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Ginieee"><img src="https://github.com/Ginieee.png" width="100px;" alt=""/></a></td>
