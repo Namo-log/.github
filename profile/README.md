@@ -4,11 +4,11 @@
 
 </br>
 
-#### 목차
+### 목차
 
-- [프로젝트 소개](#-프로젝트-소개)
-- [기술 스택](#️-기술-스택)
-- [팀원 소개](#-팀원-소개)
+- [📢 프로젝트 소개](#-프로젝트-소개)
+- [⚒️ 기술 스택](#️-기술-스택)
+- [👨‍👩‍👧 팀원 소개](#-팀원-소개)
 
 </br>
 
@@ -231,3 +231,24 @@
 <a href="https://www.instagram.com/namo___official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </center>
 </div>
+
+</br>
+
+### 🧐 나모는 이런 고민들을 했어요
+- [[👑 **PM**]](https://namo-log.vercel.app/?category=%F0%9F%91%91+PM)
+   - [나모 기술 블로그를 시작한 이유](https://namo-log.vercel.app/pm-blog) - 코코아
+
+- [[📱 **Android**]](https://namo-log.vercel.app/?category=%F0%9F%93%B1+Android)
+   - [나모의 클린하고 싶은 아키텍처](https://namo-log.vercel.app/android-clean-architecture) - 짱구
+   - [나모 안드로이드 팀의 리팩토링 도전기](https://namo-log.vercel.app/android-refactoring-1) - 코코아
+   - [나모 안드로이드는 카테고리 색상을 어떻게 저장할까?](https://namo-log.vercel.app/android-category-color) - 코코아
+   - [나모의 코루틴 사용기](https://namo-log.vercel.app/android-coroutine) - 짱구
+
+- [[🍎 **iOS**]](https://namo-log.vercel.app/?category=%F0%9F%8D%8E+iOS)
+   - [나모에서 캘린더 일정을 그리는 방법 (1)](https://namo-log.vercel.app/ios-calendar-1) - 연현
+   - [나모 iOS의 UserDefaults와 @AppStorage를 활용한 화면 분기 및 화면 전환](https://namo-log.vercel.app/ios-userdefaults-1) - 고흐
+
+- [[🌱 **Server**]](https://namo-log.vercel.app/?category=%F0%9F%8C%B1+Spring)
+   - [우당탕탕 AWS 서버 이전기](https://namo-log.vercel.app/server-transfer-on-aws) - 루카
+   - [동시성 이슈 해결하기 - 낙관적 락(실패)](https://namo-log.vercel.app/server-synchronized-db) - 매실
+   - [애플 로그인&회원탈퇴 구현하기 (1)](https://namo-log.vercel.app/server-apple-1) - 초코
