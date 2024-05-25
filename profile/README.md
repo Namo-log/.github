@@ -1,6 +1,6 @@
 ## 🗓️ 나의 모임 기록 어플, 나모
 
-![namo](https://github.com/Namo-log/.github/assets/101113025/b8947469-f216-4624-b63c-aa3cd0e67d24)
+![ios_header1_참여진_B](https://github.com/Namo-log/.github/assets/101113025/687b0a6b-a8ef-47b7-8579-da5b72a22447)
 
 </br>
 
