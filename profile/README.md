@@ -1,6 +1,6 @@
 ## 🗓️ 나의 모임 기록 어플, 나모
 
-<img width="2160" alt="Android - Main" src="https://github.com/Namo-Mongmong/.github/assets/101113025/2379e054-c0fd-4163-b41e-f1d142112a69">
+![namo](https://github.com/Namo-log/.github/assets/101113025/b8947469-f216-4624-b63c-aa3cd0e67d24)
 
 </br>
 
