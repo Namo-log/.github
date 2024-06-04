@@ -26,12 +26,10 @@
 <a href='https://play.google.com/store/apps/details?id=com.mongmong.namo'>
    <img width="250px" alt='Google Play에서 다운로드' src='https://github.com/Namo-Mongmong/.github/assets/101113025/5e11c728-060f-43d4-bab3-cbcae1f708f9'/>
 </a>
-<a href='https://play.google.com/store/apps/details?id=com.mongmong.namo'>
+<a href='https://apps.apple.com/kr/app/%EB%82%98%EB%AA%A8-%EB%82%98%EC%9D%98-%EB%AA%A8%EC%9E%84-%EA%B8%B0%EB%A1%9D/id6477534399'>
    <img width=250px alt='App Store에서 다운로드' src='https://github.com/Namo-Mongmong/.github/assets/101113025/236fa9f1-9331-43ca-902b-40875cf334e9'/>
 </a>
 </div>
-
-\*\* 앱스토어 링크는 곧 추가될 예정입니다!
 
 #### 나모가 어떤 서비스인지 궁금하다면 > [📝 우리의 나모를 소개합니다](https://namo-log.vercel.app/main)
 
