@@ -1,8 +1,6 @@
 ## 🗓️ 나의 모임 기록 어플, 나모
 
-![ios_header1_참여진_B](https://github.com/Namo-log/.github/assets/101113025/687b0a6b-a8ef-47b7-8579-da5b72a22447)
-
-</br>
+![header1_참여진_B](https://github.com/Namo-log/.github/assets/101113025/687b0a6b-a8ef-47b7-8579-da5b72a22447)
 
 ### 목차
 
@@ -231,6 +229,7 @@
 <center>
 <a href="https://namo-log.vercel.app/"><img src="https://img.shields.io/badge/NAMO%20Tech%20blog-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.instagram.com/namo___official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://disquiet.io/product/%EB%82%98%EB%AA%A8"><img src="https://img.shields.io/badge/Disquiet-%23FFFFFF.svg?style=for-the-badge&logo=D&logoColor=black"/></a>
 </center>
 </div>
 
