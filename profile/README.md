@@ -153,7 +153,7 @@
     <td align="center"><a href="https://github.com/edv-Shin"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/iHyunWoo"><img src="https://github.com/iHyunWoo.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/FpRaArNkK"><img src="https://github.com/FpRaArNkK.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/goghrf"><img src="https://github.com/goghrf.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/letskooo"><img src="https://github.com/letskooo.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/EunsuSeo01"><img src="https://github.com/EunsuSeo01.png" width="100px;" alt=""/></a></td>
   </tr>
   <tr>
