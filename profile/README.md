@@ -128,7 +128,7 @@
   <tr>
     <td align="center"><a href="https://github.com/ocean1229-github"><img src="https://github.com/ocean1229-github.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/yujeong-seo"><img src="https://github.com/yujeong-seo.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/edv-Shin"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/iHyunWoo"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/fPrAaRnKk"><img src="https://github.com/fPrAaRnKk.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/Seokki-Kwon"><img src="https://github.com/Seokki-Kwon.png" width="100px;" alt=""/></a></td>
   </tr>
@@ -228,7 +228,7 @@
     <td align="center">1, 2기</td>
     <td align="center">1기</td>
     <td align="center">1기</td>
-    <td align="center">1기</td>
+    <td align="center">1, 2, 3기</td>
   </tr>
 </table>
     <table>
@@ -254,7 +254,7 @@
     <td align="center">Web</td>
   </tr>
   <tr>
-    <td align="center">1, 2, 3기</td>
+    <td align="center">2, 3기</td>
     <td align="center">3기</td>
     <td align="center">3기</td>
     <td align="center">3기</td>
