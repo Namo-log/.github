@@ -126,14 +126,14 @@
 
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/nahy-512"><img src="https://github.com/nahy-512.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/ocean1229-github"><img src="https://github.com/ocean1229-github.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/yujeong-seo"><img src="https://github.com/yujeong-seo.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/luke0408"><img src="https://github.com/luke0408.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/edv-Shin"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/galug"><img src="https://github.com/galug.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/hyeonji91"><img src="https://github.com/hyeonji91.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/Seokki-Kwon"><img src="https://github.com/Seokki-Kwon.png" width="100px;" alt=""/></a></td>
   </tr>
   <tr>
-    <td align="center">PM / AOS</td>
+    <td align="center">PM</td>
     <td align="center">Design</td>
     <td align="center">iOS</td>
     <td align="center">iOS</td>
@@ -152,11 +152,11 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/edv-Shin"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/iHyunWoo"><img src="https://github.com/iHyunWoo.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/FpRaArNkK"><img src="https://github.com/FpRaArNkK.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/letskooo"><img src="https://github.com/letskooo.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/EunsuSeo01"><img src="https://github.com/EunsuSeo01.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/EunsuSeo01"><img src="https://github.com/EunsuSeo01.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/nahy-512"><img src="https://github.com/nahy-512.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/hosung-222"><img src="https://github.com/hosung-222.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/joowojr"><img src="https://github.com/joowojr.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://github.com/.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://github.com/.png" width="100px;" alt=""/></a></td>
   </tr>
   <tr>
     <td align="center">Android</td>
