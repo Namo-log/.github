@@ -207,26 +207,61 @@
     <td align="center"><b>앨리/박수빈</b></a></td>
     <td align="center"><b>얼리시/정진주</b></a></td>
     <td align="center"><b>라나/이가영</b></a></td>
+    <td align="center"><b>매실/김현재</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Ginieee"><img src="https://github.com/Ginieee.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/subinpark99"><img src="https://github.com/subinpark99.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/jinjoo-jung"><img src="https://github.com/jinjoo-jung.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/LeeGa00"><img src="https://github.com/LeeGa00.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/galug"><img src="https://github.com/galug.png" width="100px;" alt=""/></a></td>
   </tr>
   <tr>
-    <td align="center">AOS</td>
-    <td align="center">AOS</td>
-    <td align="center">BE</td>
-    <td align="center">BE</td>
+    <td align="center">Android</td>
+    <td align="center">Android</td>
+    <td align="center">Server</td>
+    <td align="center">Server</td>
+    <td align="center">Server</td>
   </tr>
   <tr>
     <td align="center">1, 2기</td>
     <td align="center">1, 2기</td>
+    <td align="center">1기</td>
     <td align="center">1기</td>
     <td align="center">1기</td>
   </tr>
 </table>
+    <table>
+    <tr>
+    <td align="center"><b>서리/서은주</b></a></td>
+    <td align="center"><b>고흐/고성민</b></a></td>
+    <td align="center"><b>루카/최선규</b></a></td>
+    <td align="center"><b>초코/김현지</b></a></td>
+    <td align="center"><b>조단/김성섭</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/EunsuSeo01"><img src="https://github.com/EunsuSeo01.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/letskooo"><img src="https://github.com/letskooo.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/luke0408"><img src="https://github.com/luke0408.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/hyeonji91"><img src="https://github.com/hyeonji91.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/jodandan"><img src="https://github.com/jodandan.png" width="100px;" alt=""/></a></td>
+  </tr>
+  <tr>
+    <td align="center">iOS</td>
+    <td align="center">iOS</td>
+    <td align="center">Server</td>
+    <td align="center">Server</td>
+    <td align="center">Web</td>
+  </tr>
+  <tr>
+    <td align="center">1, 2, 3기</td>
+    <td align="center">3기</td>
+    <td align="center">3기</td>
+    <td align="center">3기</td>
+    <td align="center">3기</td>
+  </tr>
+</table>
+    
   </div>
 </details>
 
