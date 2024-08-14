@@ -129,7 +129,7 @@
     <td align="center"><a href="https://github.com/ocean1229-github"><img src="https://github.com/ocean1229-github.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/yujeong-seo"><img src="https://github.com/yujeong-seo.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/edv-Shin"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/galug"><img src="https://github.com/galug.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/fPrAaRnKk"><img src="https://github.com/fPrAaRnKk.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/Seokki-Kwon"><img src="https://github.com/Seokki-Kwon.png" width="100px;" alt=""/></a></td>
   </tr>
   <tr>
@@ -190,8 +190,14 @@
     </tr>
     <tr>
         <td align="center">3기</td>
-        <td>24.01.01 ~ </td>
+        <td>24.01.01 ~ 24.07.31</td>
         <td>iOS 출시, Android 리팩토링</td>
+    </tr>
+    </tr>
+    <tr>
+        <td align="center">4기</td>
+        <td>24.08.01 ~ </td>
+        <td>전체 기획 수정 & 수익구조 생성</td>
     </tr>
   </table>
   <h3>이전 팀원들</h3>
