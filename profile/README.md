@@ -118,11 +118,11 @@
 
 <table>
   <tr>
-    <td align="center"><b>코코아/김나현</b></a></td>
+    <td align="center"><b>뚜뚜/강두현</b></a></td>
     <td align="center"><b>유즈/서유정</b></a></td>
-    <td align="center"><b>루카/최선규</b></a></td>
-    <td align="center"><b>매실/김현재</b></a></td>
-    <td align="center"><b>초코/김현지</b></a></td>
+    <td align="center"><b>연현/정현우</b></a></td>
+    <td align="center"><b>램프/박민서</b></a></td>
+    <td align="center"><b>반디/권석기</b></a></td>
 
   </tr>
   <tr>
@@ -135,18 +135,19 @@
   <tr>
     <td align="center">PM / AOS</td>
     <td align="center">Design</td>
-    <td align="center">BE</td>
-    <td align="center">BE</td>
-    <td align="center">BE</td>
+    <td align="center">iOS</td>
+    <td align="center">iOS</td>
+    <td align="center">iOS</td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center"><b>짱구/신동원</b></a></td>
-    <td align="center"><b>연현/정현우</b></a></td>
-    <td align="center"><b>램프/박민서</b></a></td>
-    <td align="center"><b>고흐/고성민</b></a></td>
-    <td align="center"><b>서리/서은수</b></a></td>
+    <td align="center"><b>코코아/김나현</b></a></td>
+    <td align="center"><b>캐슬/이호성</b></a></td>
+    <td align="center"><b>다나/서주원</b></a></td>
+    <td align="center"><b>원/조혜원</b></a></td>
+    <td align="center"><b>아리/노예원</b></a></td>
 
   </tr>
   <tr>
@@ -155,13 +156,15 @@
     <td align="center"><a href="https://github.com/FpRaArNkK"><img src="https://github.com/FpRaArNkK.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/letskooo"><img src="https://github.com/letskooo.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/EunsuSeo01"><img src="https://github.com/EunsuSeo01.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/EunsuSeo01"><img src="https://github.com/EunsuSeo01.png" width="100px;" alt=""/></a></td>
   </tr>
   <tr>
-    <td align="center">AOS</td>
-    <td align="center">iOS</td>
-    <td align="center">iOS</td>
-    <td align="center">iOS</td>
-    <td align="center">iOS</td>
+    <td align="center">Android</td>
+    <td align="center">Android</td>
+    <td align="center">Server</td>
+    <td align="center">Server</td>
+    <td align="center">Web</td>
+    <td align="center">Web</td>
   </tr>
 </table>
 
