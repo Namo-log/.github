@@ -128,7 +128,7 @@
   <tr>
     <td align="center"><a href="https://github.com/ocean1229-github"><img src="https://github.com/ocean1229-github.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/yujeong-seo"><img src="https://github.com/yujeong-seo.png" width="100px;" alt=""/></a></td>
-    <td align="center"><a href="https://github.com/iHyunWoo"><img src="https://github.com/edv-Shin.png" width="100px;" alt=""/></a></td>
+    <td align="center"><a href="https://github.com/iHyunWoo"><img src="https://github.com/iHyunWoo.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/fPrAaRnKk"><img src="https://github.com/fPrAaRnKk.png" width="100px;" alt=""/></a></td>
     <td align="center"><a href="https://github.com/Seokki-Kwon"><img src="https://github.com/Seokki-Kwon.png" width="100px;" alt=""/></a></td>
   </tr>
